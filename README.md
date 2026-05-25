@@ -9,11 +9,12 @@ A Python-based simulation game featuring dynamic plant growth, weather integrati
 1. Clone or download the repository.
 2. Navigate to the project root directory (`C:.`).
 3. Install the required dependencies:
+   - Make sure to have setupwheels.
    ```bash
    pip install -e .
    ```
 
-4. python main.py
+5. python main.py
 
 ## Credits & Assets
 
