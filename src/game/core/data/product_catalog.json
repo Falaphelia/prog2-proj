@@ -1,0 +1,190 @@
+{
+  "plant": {
+    "id1": {
+      "product_name": "Strawberry",
+      "price": 5,
+      "product_reward": 3,
+      "product_growth_time": 100,
+      "product_remaining_harvests": 3
+    },
+    "id2": {
+      "product_name": "Wheat",
+      "price": 6,
+      "product_reward": 10,
+      "product_growth_time": 150,
+      "product_remaining_harvests": 1
+    },
+    "id3": {
+      "product_name": "Corn",
+      "price": 8,
+      "product_reward": 18,
+      "product_growth_time": 250,
+      "product_remaining_harvests": 1
+    },
+    "id4": {
+      "product_name": "Carrot",
+      "price": 5,
+      "product_reward": 10,
+      "product_growth_time": 120,
+      "product_remaining_harvests": 1
+    },
+    "id5": {
+      "product_name": "Potato",
+      "price": 10,
+      "product_reward": 28,
+      "product_growth_time": 300,
+      "product_remaining_harvests": 1
+    },
+    "id6": {
+      "product_name": "Tomato",
+      "price": 6,
+      "product_reward": 11,
+      "product_growth_time": 200,
+      "product_remaining_harvests": 3
+    },
+    "id7": {
+      "product_name": "Blueberry",
+      "price": 8,
+      "product_reward": 13,
+      "product_growth_time": 250,
+      "product_remaining_harvests": 4
+    },
+    "id8": {
+      "product_name": "Onion",
+      "price": 5,
+      "product_reward": 11,
+      "product_growth_time": 150,
+      "product_remaining_harvests": 1
+    },
+    "id9": {
+      "product_name": "Pumpkin",
+      "price": 10,
+      "product_reward": 40,
+      "product_growth_time": 400,
+      "product_remaining_harvests": 1
+    },
+    "id10": {
+      "product_name": "Radish",
+      "price": 6,
+      "product_reward": 12,
+      "product_growth_time": 180,
+      "product_remaining_harvests": 1
+    },
+    "id11": {
+      "product_name": "Peas",
+      "price": 8,
+      "product_reward": 16,
+      "product_growth_time": 220,
+      "product_remaining_harvests": 2
+    },
+    "id12": {
+      "product_name": "Spinach",
+      "price": 5,
+      "product_reward": 9,
+      "product_growth_time": 120,
+      "product_remaining_harvests": 2
+    },
+    "id13": {
+      "product_name": "Eggplant",
+      "price": 10,
+      "product_reward": 42,
+      "product_growth_time": 350,
+      "product_remaining_harvests": 1
+    },
+    "id14": {
+      "product_name": "Cucumber",
+      "price": 6,
+      "product_reward": 14,
+      "product_growth_time": 200,
+      "product_remaining_harvests": 2
+    },
+    "id15": {
+      "product_name": "Sunflower",
+      "price": 8,
+      "product_reward": 55,
+      "product_growth_time": 450,
+      "product_remaining_harvests": 1
+    },
+    "id16": {
+      "product_name": "Cacao",
+      "price": 40,
+      "product_reward": 130,
+      "product_growth_time": 1200,
+      "product_remaining_harvests": 2
+    }
+  },
+  "tree": {
+    "id1": {
+      "product_name": "Lemon Tree",
+      "price": 30,
+      "product_reward": 28,
+      "product_growth_time": 400,
+      "product_remaining_harvests": 10
+    },
+    "id2": {
+      "product_name": "Cherry Tree",
+      "price": 40,
+      "product_reward": 38,
+      "product_growth_time": 600,
+      "product_remaining_harvests": 10
+    },
+    "id3": {
+      "product_name": "Apple Tree",
+      "price": 50,
+      "product_reward": 52,
+      "product_growth_time": 900,
+      "product_remaining_harvests": 10
+    },
+    "id4": {
+      "product_name": "Peach Tree",
+      "price": 65,
+      "product_reward": 65,
+      "product_growth_time": 1200,
+      "product_remaining_harvests": 12
+    },
+    "id5": {
+      "product_name": "Orange Tree",
+      "price": 80,
+      "product_reward": 80,
+      "product_growth_time": 1500,
+      "product_remaining_harvests": 12
+    }
+  },
+  "animal": {
+    "id1": {
+      "product_name": "Chicken",
+      "price": 100,
+      "product_reward": 45,
+      "product_growth_time": 600,
+      "product_remaining_harvests": 15
+    },
+    "id2": {
+      "product_name": "Rabbit",
+      "price": 150,
+      "product_reward": 75,
+      "product_growth_time": 1200,
+      "product_remaining_harvests": 15
+    },
+    "id3": {
+      "product_name": "Sheep",
+      "price": 250,
+      "product_reward": 170,
+      "product_growth_time": 3000,
+      "product_remaining_harvests": 18
+    },
+    "id4": {
+      "product_name": "Goat",
+      "price": 350,
+      "product_reward": 240,
+      "product_growth_time": 4500,
+      "product_remaining_harvests": 18
+    },
+    "id5": {
+      "product_name": "Cow",
+      "price": 1000,
+      "product_reward": 380,
+      "product_growth_time": 6000,
+      "product_remaining_harvests": 18
+    }
+  }
+}

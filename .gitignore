@@ -1,0 +1,17 @@
+# Python compilation junk
+__pycache__/
+*.pyc
+
+# Distribution / Build artifacts
+build/
+develop-eggs/
+dist/
+.eggs/
+*.egg-info/
+
+# Testing and Coverage (keeps your GitHub clean)
+.coverage
+htmlcov/
+
+# Local API caching
+.cache.sqlite
